@@ -1,0 +1,109 @@
+.top{
+  position: relative;
+  background-color: #cffffe;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  font-family: 'Merriweather', serif;
+  margin-bottom: 40px;
+}
+body{
+  text-align: center;
+  font-size: 120%;
+  background-color: #F1F6F9;
+
+}
+h1{
+  font-family: 'Satisfy', cursive;
+  font-size: 5.625rem;
+  margin-bottom: 0.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+.p{
+  font-size: 2.5rem;
+  margin-top: 0.5rem;
+  color: #66BFBF;
+}
+h2{
+  color: #337FED ;
+  margin-bottom: 40px;
+  margin-top: 20px;
+}
+h3{
+  color: #11999E;
+
+  line-height: 1;
+  margin:10px;
+}
+.intro{
+  width: 50%;
+  margin: auto;
+}
+.cloud1{
+  position: absolute;
+  right:20%;
+  top: 70px;
+  margin-top: 4%;
+}
+.cloud2{
+  position: absolute;
+  left: 20%;
+}
+hr{
+  border: dotted #66BFBF 6PX ;
+  border-bottom: none;
+  width: 5%;
+  margin: 20px auto 20px;
+
+}
+.skill-row{
+  width:50%;
+  margin:10px auto 50px;
+  text-align: left;
+
+}
+.profile{
+  border-radius: 40px;
+}
+.html{
+
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+  border-radius: 30px;
+
+}
+.css{
+  float: right;
+  width: 25%;
+  margin-right: 30px;
+  border-radius: 30px;
+}
+
+.BUTTON_1 {
+   background-color: rgba(61,237,246,0.97);
+
+   color: #FFFFFF;
+   font-family: Arial;
+   font-size: 25px;
+   padding: 15px;
+   border-radius: 20px;
+   border: solid #337FED 3px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+
+
+.fa{
+  margin-right: 20px;
+}
+
+
+.bottom-container{
+  padding: 50px 0 20px;
+  background-color: #66BFBF;
+}
